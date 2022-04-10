@@ -4,7 +4,7 @@
 
 🔷 First time created a React app. Also first time tried to design somethings from scratch. It's not a good design, but learned a lot while working on it.
 
-🔷 Netfliy demo: https://sellimenes-react-tailwind-portfolio.netlify.app/
+🔷 Netlify demo: https://sellimenes-react-tailwind-portfolio.netlify.app/
 
 
 
