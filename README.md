@@ -7,3 +7,5 @@
 🔷 Used technologies: create-react-app | Tailwind CSS
 
 🔷 Netlify demo: https://sellimenes-react-tailwind-portfolio.netlify.app/
+
+![ss-1](https://user-images.githubusercontent.com/23125375/162642986-22977438-3233-41cc-92f1-7daaa6724dd8.png)
